@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./The Witch's House.sh</path>
+    <name>The Witch's House (Việt Hóa)</name>
+    <desc>Viola thức dậy trong một khu rừng bí ẩn và bước vào một tòa dinh thự cổ quái của phù thủy. Một tựa game kinh dị giải đố huyền thoại.</desc>
+    <image>./the_witchs_house/cover.png</image>
+    <releasedate>20121003T000000</releasedate>
+    <developer>Fummy</developer>
+    <publisher>Fummy</publisher>
+    <genre>Horror, Puzzle, RPG</genre>
+    <players>1</players>
+  </game>
+</gameList>

@@ -1,0 +1,30 @@
+# Runtime generated files
+conf/
+log.txt
+*.log
+*.save
+Save*.rvdata
+the_witchs_house/conf/
+the_witchs_house/log.txt
+the_witchs_house/gamedata/Save*.rvdata
+
+# System / OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.BIN/
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Editor & temporary files
+*.bak
+*.tmp
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+__pycache__/
+*.pyc
